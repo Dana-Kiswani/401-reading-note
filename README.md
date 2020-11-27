@@ -1,7 +1,10 @@
 # *401-reading-note*
 *Reading note for Advanced Software Development [401]*
 
-*Hey! My name is Dana, I am a Full-Stack Developer, with a Software-engineering background. Currently I'm taking a Technical Diploma in Software Engineering from ***ASAC***. 
+*Hey! My name is Dana, I am a Full-Stack Developer, with a Software-engineering background. Currently I'm taking a Technical Diploma in Software Engineering from ***ASAC***.*
+*I am now a `401` student, as long as I dreamed of this level and I will be up to this responsibility.*
+*The aim of this website is to help me document the main topics and reminders of the content that will be covered in the course.*
+<hr>
 
 # Table Of Content:
 |       Lap         | Read-Num                                                                              |  

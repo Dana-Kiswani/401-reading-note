@@ -21,8 +21,8 @@ For example, if an algorithm increments each number in a list of length n, we mi
 <hr>
 
 # *Names and Values in Python*
-*The behavior of names and values in Python can be confusing. Like many parts of Python, it has an underlying simplicity that can be hard to discern, especially if you are used to other programming languages.*
-*Assigning a value to a name never copies the data, it never makes a new value. Assignment just makes the name on the left refer to the value on the right.*
+*The behavior of names and values in Python can be confusing. Like many parts of Python, it has an underlying simplicity that can be hard to discern, especially if you are used to other programming languages.* <br>
+*Assigning a value to a name never copies the data, it never makes a new value. Assignment just makes the name on the left refer to the value on the right.*<br>
 *Python is dynamically typed, which means that names have no type. Any name can refer to any value at any time. A name can refer to an integer, and then to a string, and then to a function, and then to a module.*
 
 

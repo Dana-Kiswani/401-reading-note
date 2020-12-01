@@ -2,6 +2,9 @@
 
 *In Python, there is no need for importing external library to read and write files. Python provides an inbuilt function for creating, writing, and reading files.*
 
+***What Is a File?***
+*Before we can go into how to work with files in Python, it’s important to understand what exactly a file is and how modern operating systems handle some of their aspects.*
+
 ***How to Open a Text File***
 *To open a file, you need to use the built-in open function. The open function returns a file object that contains methods and attributes to perform various operations on the file.*
 

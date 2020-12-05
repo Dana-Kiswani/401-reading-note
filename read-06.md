@@ -42,6 +42,6 @@ random.random() * 100
 
 *In computer science, time complexity is the computational complexity that describes the amount of time it takes to run an algorithm.*
 
-*Big O notation is a method for determining how fast an algorithm is. Using Big O notation, we can learn whether our algorithm is fast or slow. This knowledge lets us design better algorithms.
+*Big O notation is a method for determining how fast an algorithm is. Using Big O notation, we can learn whether our algorithm is fast or slow. This knowledge lets us design better algorithms.*
 
 *Big O takes the upper bound. The worst-case results in the worst execution of the algorithm.*

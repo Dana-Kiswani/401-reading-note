@@ -9,24 +9,24 @@
 # Table Of Content:
 |       Lap         | Read-Num                                                                              |  
 |  --------------   | -----------------------------------------------------------------------------------   | 
-|    Class 1        | [Python Basics]()| 
-|    Class 2        | [Beginners Guide to Big O]()| 
-|    Class 3        | [Pytest]()| 
-|    Class 4        | [Files Reading and Writing]()| 
-|    Class 5        | [Classes and objects]()| 
-|    Class 6        | [Linked Lists]()| 
-|    Class 7        | [Random Module]()| 
-|    Class 8        | [Python Scope]()| 
-|    Class 9        | [List Comprehensions in Python]()|
-|    Class 10       | [Dunder Methods]()| 
-|    Class 11       | [Stacks and Queues]()| 
-|    Class 12       | [Curses]()| 
-|    Class 13       | [Snake Game]()| 
-|    Class 14       | [Data Analysis]()| 
-|    Class 15       | [Panda]()| 
-|    Class 16       | [Linear Regression in Python with Scikit-Learn]()| 
-|    Class 17       | [Matplotlib tutorial]()| 
-|    Class 16       | [Trees]()| 
+|    Class 1        | [Python Basics](https://dana-kiswani.github.io/401-reading-note/read-01)| 
+|    Class 2        | [Beginners Guide to Big O](https://dana-kiswani.github.io/401-reading-note/read-02)| 
+|    Class 3        | [Pytest](https://dana-kiswani.github.io/401-reading-note/read-03)| 
+|    Class 4        | [Files Reading and Writing](https://dana-kiswani.github.io/401-reading-note/read-04)| 
+|    Class 5        | [Classes and objects](https://dana-kiswani.github.io/401-reading-note/read-05)| 
+|    Class 6        | [Linked Lists](https://dana-kiswani.github.io/401-reading-note/read-06)| 
+|    Class 7        | [Random Module](https://dana-kiswani.github.io/401-reading-note/read-07)| 
+|    Class 8        | [Python Scope](https://dana-kiswani.github.io/401-reading-note/read-08)| 
+|    Class 9        | [List Comprehensions in Python](https://dana-kiswani.github.io/401-reading-note/read-09)|
+|    Class 10       | [Dunder Methods](https://dana-kiswani.github.io/401-reading-note/read-10)| 
+|    Class 11       | [Stacks and Queues](https://dana-kiswani.github.io/401-reading-note/read-11)| 
+|    Class 12       | [Curses](https://dana-kiswani.github.io/401-reading-note/read-12)| 
+|    Class 13       | [Snake Game](https://dana-kiswani.github.io/401-reading-note/read-13)| 
+|    Class 14       | [Data Analysis](https://dana-kiswani.github.io/401-reading-note/read-14)| 
+|    Class 15       | [Panda](https://dana-kiswani.github.io/401-reading-note/read-15)| 
+|    Class 16       | [Linear Regression in Python with Scikit-Learn](https://dana-kiswani.github.io/401-reading-note/read-16)| 
+|    Class 17       | [Matplotlib tutorial](https://dana-kiswani.github.io/401-reading-note/read-17)| 
+|    Class 16       | [Trees](https://dana-kiswani.github.io/401-reading-note/read-16)| 
 |    Class 17       | [Machine Learning]()| 
 |    Class 18       | [Web Scraping]()| 
 |    Class 19       | [Cryptography]()| 

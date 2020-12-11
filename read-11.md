@@ -7,10 +7,10 @@ The language-agnostic behavior of Jupyter has made it a possible game-changer, a
 # *NumPy Tutorial: Data Analysis with Python*
 
 * ***What is NumPy?***
-> - NumPy is a Python library used for working with arrays.
-> - It also has functions for working in domain of linear algebra, fourier transform, and matrices.
-> - NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.
-> - NumPy stands for Numerical Python.
+- NumPy is a Python library used for working with arrays.
+- It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+- NumPy was created in 2005 by Travis Oliphant. It is an open source project and you can use it freely.
+- NumPy stands for Numerical Python.
 
 * *Import NumPy*
 > Once NumPy is installed, import it in your applications by adding the import keyword:

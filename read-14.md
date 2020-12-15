@@ -11,8 +11,8 @@
 <br>
 
 > And it combines two components: <br>
-> -A web application <br>
-> -Notebook documents
+> - A web application <br>
+> - Notebook documents
 
 
 ***pylab*** <br>

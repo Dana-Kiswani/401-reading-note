@@ -20,9 +20,9 @@ Number    | Title/ Header
 
 >  *The purpose of exploratory analysis is to "get to know" the dataset. Doing so upfront will make the rest of the project much smoother, in 3 main ways:*
 
-   - You’ll gain valuable hints for Data Cleaning (which can make or break your models).
-   - You’ll think of ideas for Feature Engineering (which can take your models from good to great).
-   - You’ll get a "feel" for the dataset, which will help you communicate results and deliver greater impact.
+  > - You’ll gain valuable hints for Data Cleaning (which can make or break your models).
+  > - You’ll think of ideas for Feature Engineering (which can take your models from good to great).
+  > - You’ll get a "feel" for the dataset, which will help you communicate results and deliver greater impact.
 
 ***3) Data Cleaning***
 
@@ -32,9 +32,9 @@ Number    | Title/ Header
 
 >  *This is often one of the most valuable tasks a data scientist can do to improve model performance, for 3 big reasons:*
 
-   - *You can isolate and highlight key information, which helps your algorithms "focus" on what’s important.*
-   - *You can bring in your own domain expertise.*
-   - *Most importantly, once you understand the "vocabulary" of feature engineering, you can bring in other people’s domain expertise!*
+  > - *You can isolate and highlight key information, which helps your algorithms "focus" on what’s important.*
+  > - *You can bring in your own domain expertise.*
+  > - *Most importantly, once you understand the "vocabulary" of feature engineering, you can bring in other people’s domain expertise!*
 
 ***5)Algorithm Selection***
 

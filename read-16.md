@@ -18,7 +18,7 @@ Number    | Title/ Header
 ***2) Exploratory Analysis***
 
 
->  * *The purpose of exploratory analysis is to "get to know" the dataset. Doing so upfront will make the rest of the project much smoother, in 3 main ways:*
+>  *The purpose of exploratory analysis is to "get to know" the dataset. Doing so upfront will make the rest of the project much smoother, in 3 main ways:*
 
   > - You’ll gain valuable hints for Data Cleaning (which can make or break your models).
   > - You’ll think of ideas for Feature Engineering (which can take your models from good to great).
@@ -30,7 +30,7 @@ Number    | Title/ Header
 
 ***4)Feature Engineering***
 
-> *  *This is often one of the most valuable tasks a data scientist can do to improve model performance, for 3 big reasons:*
+>  *This is often one of the most valuable tasks a data scientist can do to improve model performance, for 3 big reasons:*
 
   > - *You can isolate and highlight key information, which helps your algorithms "focus" on what’s important.*
   > - *You can bring in your own domain expertise.*

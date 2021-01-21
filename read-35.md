@@ -1,4 +1,4 @@
-# *Pre-rendering and Data Fetching*
+***Pre-rendering and Data Fetching***
 
 > By default, Next.js pre-renders every page. This means that Next.js generates HTML for each page in advance, instead of having it all done by client-side JavaScript. Pre-rendering can result in better performance and SEO.
 
@@ -9,7 +9,7 @@
 
 
 
-# *Dynamic Routes*
+***Dynamic Routes***
 
 > We can do this by taking the following steps. You don’t have to make these changes yet — we’ll do it all on the next page.
 
@@ -21,7 +21,7 @@
 > The returned list is not just an array of strings — it must be an array of objects that look like the comment above. Each object must have the params key and contain an object with the id key (because we’re using [id] in the file name). Otherwise, getStaticPaths will fail.
 
 
-# *Deploying Your `Next.js` App*
+***Deploying Your `Next.js` App***
 
 > If you’re NOT continuing from the previous lesson, you can download, install, and run the starter code for this lesson below. This sets up a nextjs-blog directory such that it’s identical to the result of the previous lesson.
 

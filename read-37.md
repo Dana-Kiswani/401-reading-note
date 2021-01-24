@@ -1,4 +1,5 @@
-# *ACM Code of Ethics and Professional Conduct*
+# ***Ethics in Tech***
+***ACM Code of Ethics and Professional Conduct***
 
 ***1. GENERAL ETHICAL PRINCIPLES***
 
